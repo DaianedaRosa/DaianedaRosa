@@ -74,7 +74,7 @@
  [![Linkedin Badge](https://img.shields.io/badge/-DaianedaRosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/daiane-da-rosa)](https://www.linkedin.com/in/Daiane-da-Rosa/)  
  [![Discord badge](https://img.shields.io/badge/-Daiane%20%23%EF%B8%8F7636-7289DA?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com)](https://discord.com) 
  [![​Github Badge​](https://img.shields.io/badge/DaianedaRosa-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/DaianedaRosa)](https://github.com/DaianedaRosa) 
-   
+​[![​Gmail Badge​](https://img.shields.io/badge/-daianedarosa@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=gmail:daianedarosa@gmail.com)](gmail:daianedarosadev@gmail.com)   
   
   
   
