@@ -8,7 +8,6 @@
 
 - ☘️ **Daiane Danielli da Rosa**
 - 🎉 **28/01**
-- 🌱 Atualmente trabalhando como **Operador de caixa** no **Posto Águia Branca**
 - 📈 Futura **Developer**
 - ⚡ Dedicada e esforçada, sempre correndo atrás que quer.
 <!-- [curriculum Vitae]()-->
